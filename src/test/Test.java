@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("이동원 깃 연결 완료!!!!!");
 		System.out.println("이승진도 깃 연결 완료!!!!");
+		System.out.println("신영범 깃 연결 완료!!!");
 	}
 
 }
