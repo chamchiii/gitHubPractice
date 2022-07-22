@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("이승진도 깃 연결 완료!!!!");
 		System.out.println("신영범(두번째) 깃 연결 완료!!!");
 		System.out.println("민석찡 왈");
+		System.out.println("임경현 연결 완료");
 	}
 
 }
